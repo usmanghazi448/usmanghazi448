@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Muhammad Usman Ahmad - Educator, Web Developer and Researcher banner">
+<title>Muhammad Usman Ahmad - Educator, Web Developer and Researcher banner</title>
+<defs>
+  <linearGradient id="gb" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3b82f6"/>
+    <stop offset="0.5" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#14b8a6"/>
+  </linearGradient>
+  <linearGradient id="bgb" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/>
+    <stop offset="1" stop-color="#171c3a"/>
+  </linearGradient>
+</defs>
+<clipPath id="clipb"><rect width="1000" height="280" rx="20"/></clipPath>
+<g clip-path="url(#clipb)">
+  <rect width="1000" height="280" fill="url(#bgb)"/>
+  <circle cx="150" cy="60" r="130" fill="#3b82f6" fill-opacity="0.18">
+    <animate attributeName="cx" values="150;260;150" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;100;60" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="220" r="150" fill="#8b5cf6" fill-opacity="0.18">
+    <animate attributeName="cx" values="860;740;860" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="300" r="120" fill="#14b8a6" fill-opacity="0.16">
+    <animate attributeName="cy" values="300;240;300" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="500.0" y="100" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="url(#gb)">Muhammad Usman Ahmad
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.1000;1" dur="1.00s" fill="freeze"/>
+  </text>
+  <text x="500.0" y="144" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#e6edf3">Educator  ·  Web Developer  ·  Researcher
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3333;1" dur="1.20s" fill="freeze"/>
+  </text>
+  <text x="500.0" y="176" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9fb0c8">BS Software Engineering  ·  MS Data Science (UET Lahore)
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4286;1" dur="1.40s" fill="freeze"/>
+  </text>
+  
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5714;1" dur="1.40s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.00s" repeatCount="indefinite"/>
+      <rect x="139.0" y="212" width="94" height="34" rx="17" fill="#0b1020" fill-opacity="0.75" stroke="url(#gb)" stroke-width="1.5"/>
+      <text x="186.0" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">React.js</text>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6053;1" dur="1.52s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.35s" repeatCount="indefinite"/>
+      <rect x="245.0" y="212" width="86" height="34" rx="17" fill="#0b1020" fill-opacity="0.75" stroke="url(#gb)" stroke-width="1.5"/>
+      <text x="288.0" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Node.js</text>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6341;1" dur="1.64s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="0.70s" repeatCount="indefinite"/>
+      <rect x="343.0" y="212" width="86" height="34" rx="17" fill="#0b1020" fill-opacity="0.75" stroke="url(#gb)" stroke-width="1.5"/>
+      <text x="386.0" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">MongoDB</text>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6591;1" dur="1.76s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.05s" repeatCount="indefinite"/>
+      <rect x="441.0" y="212" width="110" height="34" rx="17" fill="#0b1020" fill-opacity="0.75" stroke="url(#gb)" stroke-width="1.5"/>
+      <text x="496.0" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">TypeScript</text>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6809;1" dur="1.88s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.40s" repeatCount="indefinite"/>
+      <rect x="563.0" y="212" width="110" height="34" rx="17" fill="#0b1020" fill-opacity="0.75" stroke="url(#gb)" stroke-width="1.5"/>
+      <text x="618.0" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">JavaScript</text>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7000;1" dur="2.00s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="1.75s" repeatCount="indefinite"/>
+      <rect x="685.0" y="212" width="78" height="34" rx="17" fill="#0b1020" fill-opacity="0.75" stroke="url(#gb)" stroke-width="1.5"/>
+      <text x="724.0" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Python</text>
+    </g>
+  </g>
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7170;1" dur="2.12s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.2s" begin="2.10s" repeatCount="indefinite"/>
+      <rect x="775.0" y="212" width="86" height="34" rx="17" fill="#0b1020" fill-opacity="0.75" stroke="url(#gb)" stroke-width="1.5"/>
+      <text x="818.0" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">PyTorch</text>
+    </g>
+  </g>
+</g>
+<rect x="1" y="1" width="998" height="278" rx="19" fill="none" stroke="url(#gb)" stroke-width="2" stroke-opacity="0.8"/>
+</svg>

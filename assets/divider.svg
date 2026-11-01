@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="6" viewBox="0 0 900 6" role="img" aria-label="Animated gradient divider">
+<title>Animated gradient divider</title>
+<defs>
+  <linearGradient id="gd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="450" y2="0" spreadMethod="repeat">
+    <stop offset="0" stop-color="#3b82f6"/>
+    <stop offset="0.5" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#14b8a6"/>
+  </linearGradient>
+  <clipPath id="cd"><rect width="900" height="6" rx="3"/></clipPath>
+</defs>
+<g clip-path="url(#cd)">
+  <rect x="0" y="0" width="1800" height="6" fill="url(#gd)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>

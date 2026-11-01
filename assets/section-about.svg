@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="Section header: About Me">
+<title>Section header: About Me</title>
+<defs>
+  <linearGradient id="gsabout" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3b82f6"/>
+    <stop offset="0.5" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#14b8a6"/>
+  </linearGradient>
+  <linearGradient id="bgsabout" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/>
+    <stop offset="1" stop-color="#171c3a"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="64" rx="14" fill="url(#bgsabout)"/>
+<rect x="1" y="1" width="898" height="62" rx="13" fill="none" stroke="url(#gsabout)" stroke-width="1.5" stroke-opacity="0.8"/>
+<rect x="0" y="14" width="6" height="36" rx="3" fill="url(#gsabout)"/>
+<text x="28" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#e6edf3">About Me
+  <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.1250;1" dur="0.80s" fill="freeze"/>
+</text>
+<rect x="28" y="50" width="160" height="3" rx="1.5" fill="url(#gsabout)">
+  <animate attributeName="width" values="40;180;40" dur="4s" repeatCount="indefinite"/>
+</rect>
+<circle cx="840" cy="32" r="5" fill="#3b82f6"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="858" cy="32" r="5" fill="#8b5cf6"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="876" cy="32" r="5" fill="#14b8a6"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.8s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Career timeline: BS 2021 to 2025, Matric teaching from April 2024, MS Data Science from 2025, ADP lecturing from November 2025">
+<title>Career timeline: BS 2021 to 2025, Matric teaching from April 2024, MS Data Science from 2025, ADP lecturing from November 2025</title>
+<defs>
+  <linearGradient id="gt" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3b82f6"/>
+    <stop offset="0.5" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#14b8a6"/>
+  </linearGradient>
+  <linearGradient id="bgt" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1020"/>
+    <stop offset="1" stop-color="#171c3a"/>
+  </linearGradient>
+</defs>
+<defs>
+<linearGradient id="tb0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="tb1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+<linearGradient id="tb2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#14b8a6"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+<linearGradient id="tb3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+</defs>
+<rect width="900" height="350" rx="18" fill="url(#bgt)"/>
+<rect x="1" y="1" width="898" height="348" rx="17" fill="none" stroke="url(#gt)" stroke-width="1.5" stroke-opacity="0.8"/>
+<line x1="300.0" y1="52" x2="300.0" y2="300" stroke="#ffffff" stroke-opacity="0.10" stroke-dasharray="3 5"/><text x="300.0" y="40" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">2021</text>
+<line x1="395.0" y1="52" x2="395.0" y2="300" stroke="#ffffff" stroke-opacity="0.10" stroke-dasharray="3 5"/><text x="395.0" y="40" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">2022</text>
+<line x1="490.0" y1="52" x2="490.0" y2="300" stroke="#ffffff" stroke-opacity="0.10" stroke-dasharray="3 5"/><text x="490.0" y="40" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">2023</text>
+<line x1="585.0" y1="52" x2="585.0" y2="300" stroke="#ffffff" stroke-opacity="0.10" stroke-dasharray="3 5"/><text x="585.0" y="40" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">2024</text>
+<line x1="680.0" y1="52" x2="680.0" y2="300" stroke="#ffffff" stroke-opacity="0.10" stroke-dasharray="3 5"/><text x="680.0" y="40" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">2025</text>
+<line x1="775.0" y1="52" x2="775.0" y2="300" stroke="#ffffff" stroke-opacity="0.10" stroke-dasharray="3 5"/><text x="775.0" y="40" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">2026</text>
+<line x1="870.0" y1="52" x2="870.0" y2="300" stroke="#ffffff" stroke-opacity="0.10" stroke-dasharray="3 5"/><text x="870.0" y="40" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">2027</text>
+
+<line x1="853.8" y1="52" x2="853.8" y2="306" stroke="#14b8a6" stroke-width="1.5">
+  <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+</line>
+<text x="853.8" y="324" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#14b8a6">Now</text>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2857;1" dur="0.70s" fill="freeze"/>
+    <text x="30" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">BS Software Engineering</text>
+    <text x="30" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">University of Sahiwal</text>
+    <text x="30" y="111" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#7d8fa9">2021 – 2025</text>
+    <rect x="300.0" y="76" width="380.0" height="20" rx="10" fill="url(#tb0)">
+      <animate attributeName="width" values="0;0;380.0" keyTimes="0;0.1667;1" dur="1.20s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5238;1" dur="1.05s" fill="freeze"/>
+    <text x="30" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Matric CS Teacher</text>
+    <text x="30" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">The Educators School</text>
+    <text x="30" y="173" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#7d8fa9">Apr 2024 – Present</text>
+    <rect x="608.8" y="138" width="245.1" height="20" rx="10" fill="url(#tb1)">
+      <animate attributeName="width" values="0;0;245.1" keyTimes="0;0.3548;1" dur="1.55s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6429;1" dur="1.40s" fill="freeze"/>
+    <text x="30" y="204" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">MS Data Science</text>
+    <text x="30" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">UET Lahore</text>
+    <text x="30" y="235" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#7d8fa9">2025 – Present</text>
+    <rect x="680.0" y="200" width="173.8" height="20" rx="10" fill="url(#tb2)">
+      <animate attributeName="width" values="0;0;173.8" keyTimes="0;0.4737;1" dur="1.90s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7143;1" dur="1.75s" fill="freeze"/>
+    <text x="30" y="266" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">ADP CS Lecturer</text>
+    <text x="30" y="282" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9fb0c8">UCP Sahiwal Campus</text>
+    <text x="30" y="297" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#7d8fa9">Nov 2025 – Present</text>
+    <rect x="758.8" y="262" width="95.0" height="20" rx="10" fill="url(#tb3)">
+      <animate attributeName="width" values="0;0;95.0" keyTimes="0;0.5556;1" dur="2.25s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
